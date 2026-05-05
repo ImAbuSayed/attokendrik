@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Attokendrik |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 06, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/attokendrik/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা এক ঘোরে হারাই যখন তখন
+> তোমার চোখের মায়ায় থমকে দাঁড়ায় মন
+> অন্ধকারে তুমি প্রথম আলোর রেখা
+> বুকের ভেতর শুধু তোমার ছবি আঁকা
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
