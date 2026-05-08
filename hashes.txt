@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Attokendrik
+
+This log tracks the cryptographic history and versioning for the song **Attokendrik** (attokendrik).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:35:42.122442 | `v1` | `e69eee17aa18c9c35139283dec6df7506fc6a7868b943bd7c9ba6a350acc7825` | `8630761434d8f126d2a6a5a6b72a4ae630b97731ff4cd7d1614e1b1263ee34d9` | `2026-05-08_attokendrik-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
